@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <title>Página-Inicial</title>
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body onload="onload()">
+    
+    <header style="font-family: Verdana; text-transform: uppercase; border: 1px solid black; background-color: cadetblue">
+        <h1 style="text-align: center;">
+            Titulo da Pagina depois do Java
+        </h1>
+    </header>
+
+    <section>
+        <button type="button" onclick="clicou()">
+            Clique Aqui!
+        </button>
+        <header>
+            <h3 id="subTitulo"></h3>
+        </header>
+        <article>
+            <p onclick="redirecionar()" id="Hidromel"> </p>
+            <p onmouseover="trocar(this)" onmouseout="voltar(this)" id="cerva">Passe o mouse aqui </p>
+            <p onmouseover="trocar(this)" onmouseout="voltar(this)" id="cerva2">Passe o mouse aqui </p>
+        </article>
+    </section>
+
+    <select onchange="funcaoChange(this)">
+        <option value="1">VALOR 1</option>
+        <option value="2">VALOR 2</option>
+        <option value="3">VALOR 3</option>
+        <option value="4">VALOR 4</option>
+    </select>
+
+
+
+
+</body>
+</html>
