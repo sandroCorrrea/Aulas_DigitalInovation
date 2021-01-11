@@ -1,0 +1,50 @@
+﻿body{
+    background-color:ghostwhite;
+    max-width: 900px;
+    font-family: Verdana;
+    margin: auto;
+}
+
+a{
+    color: black;
+    text-decoration: overline;
+}
+
+#principal, .numb2, .numb3 {
+    color: black;
+}
+#principal{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.numb3{
+    font-size: 50px;
+    font-style: italic;
+}
+
+.post {
+    background-color: blueviolet;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+.conteudo {
+    margin: 0px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.listOr li a{
+    text-decoration: none;
+    list-style-type: none;
+}
