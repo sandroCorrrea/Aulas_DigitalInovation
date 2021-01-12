@@ -179,13 +179,48 @@ const obj2 = {
 
 console.log(obj2);*/
 
+/*const uniqueID = Symbol("Hello");
+const uniqueID2 = Symbol("Hello");
 
-var name = 'Jaum';
-
-function value(...args) {
-	console.log(args);
+const obj = {
+	[uniqueID] : 'Hello World'
 }
 
-value.name(...args)
 
+console.log(obj);*/
 
+/*const arr = [1, 2, 3, 4];
+
+const it = arr[Symbol.iterator]();
+
+console.log(it.next());
+*/
+
+/*const arr = [1, 21, 31, 56];
+
+const it = arr[Symbol.iterator]();
+
+const obj = {
+	values: [1, 21, 31, 56],
+	[Symbol.iterator]() {
+
+    }
+}
+
+for (let values of obj) {
+	console.log(values)
+}*/
+
+//GENERATORS
+function* hello() {
+	console.log("Hello");
+	yield;
+
+	console.log("World");
+	yield;
+	console.log("Paz");
+}
+
+const gene = hello();
+
+console.log(gene.next()); console.log(gene.next()); console.log(gene.next()); console.log(gene.next());
