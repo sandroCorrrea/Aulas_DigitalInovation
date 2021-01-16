@@ -1,0 +1,9 @@
+{
+  "name": "app-chain",
+  "version": "0.0.0",
+  "description": "AppChain",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

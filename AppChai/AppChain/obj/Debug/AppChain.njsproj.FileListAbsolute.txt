@@ -1,0 +1,3 @@
+C:\Users\jsand\OneDrive\Área de Trabalho\CursoHTML_CSS\Aulas_DigitalInovation\AppChain\AppChain\obj\Debug\AppChain.njsprojAssemblyReference.cache
+C:\Users\jsand\OneDrive\Área de Trabalho\CursoHTML_CSS\Aulas_DigitalInovation\AppChain\AppChain\obj\Debug\AppChain.njsproj.CoreCompileInputs.cache
+C:\Users\jsand\OneDrive\Área de Trabalho\CursoHTML_CSS\Aulas_DigitalInovation\AppChain\AppChain\bin\Microsoft.NodejsTools.WebRole.dll
