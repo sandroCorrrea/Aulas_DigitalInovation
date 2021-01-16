@@ -1,0 +1,3 @@
+C:\Users\jsand\OneDrive\Área de Trabalho\CursoHTML_CSS\Aulas_DigitalInovation\jsAvançado\testeJs(01)\testeJs(01)\obj\Debug\testeJs(01).njsprojAssemblyReference.cache
+C:\Users\jsand\OneDrive\Área de Trabalho\CursoHTML_CSS\Aulas_DigitalInovation\jsAvançado\testeJs(01)\testeJs(01)\obj\Debug\testeJs(01).njsproj.CoreCompileInputs.cache
+C:\Users\jsand\OneDrive\Área de Trabalho\CursoHTML_CSS\Aulas_DigitalInovation\jsAvançado\testeJs(01)\testeJs(01)\bin\Microsoft.NodejsTools.WebRole.dll

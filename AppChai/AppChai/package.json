@@ -1,0 +1,9 @@
+{
+  "name": "app-chai",
+  "version": "0.0.0",
+  "description": "AppChai",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
