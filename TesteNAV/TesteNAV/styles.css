@@ -1,0 +1,15 @@
+
+#article {
+    background-image: linear-gradient(to right, #9834eb, #4a444f);
+}
+
+button {
+    color: white;
+    background-color: black;
+    padding: 15px;
+}
+
+.styleButton{
+    margin-top: 10px;
+    text-align: center;
+}
