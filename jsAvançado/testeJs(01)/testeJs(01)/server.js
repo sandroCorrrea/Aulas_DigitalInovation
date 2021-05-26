@@ -62,7 +62,37 @@
 // document.write(data);
 
 
-function disparaAlerts()
+//document.write(document.getElementById("usuario"))
+
+//console.log(document.getElementsByTagName("input"))
+
+//console.log(document.getElementsByClassName("nome_User"))
+
+//console.log(document.getElementsByTagName("name"))
+
+function capturandoCaracter()
 {
-    alert("Voce clicou na div");
+    var elementos = document.getElementById("caracter").value
+
+    document.getElementById("caracter").value = ''
+
+    elementos.trim()
+
+    switch (elementos) {
+        case "0":
+        case "1":
+        case "2":
+        case "3":
+        case "4":
+        case "5":
+        case "6":
+        case "7":
+        case "8":
+        case "9":
+            document.getElementById("numeros").value += elementos
+            break;
+        default:
+            document.getElementById("letras").value += elementos
+            break;
+    }
 }
